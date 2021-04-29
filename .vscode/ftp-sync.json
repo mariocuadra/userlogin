@@ -1,8 +1,8 @@
 {
     "remotePath": "./userlogin",
     "host": "mariocuadra.com",
-    "username": "mcs@mariocuadra.com",
-    "password": "Ce71647500-k",
+    "username": "",
+    "password": "",
     "port": 21,
     "secure": false,
     "protocol": "ftp",
